@@ -1,0 +1,10 @@
+#title {
+    margin: 1em;
+}
+
+.food {
+    border: 1px solid black;
+    box-sizing: border-box;
+    padding: 1em;
+    background-color: gray;
+}
